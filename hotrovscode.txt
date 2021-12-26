@@ -1,3 +1,0 @@
-chay c/c++ : mingw
-chay js: node.js
-chay python: python.org 
